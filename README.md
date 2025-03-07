@@ -2,7 +2,7 @@
 
 ### Backend Developer | Crafting Scalable Systems
 
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=sardiniaa&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
