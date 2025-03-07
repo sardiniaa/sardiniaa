@@ -18,14 +18,7 @@
 ## 🔥 Recent Activity
 
 <!-- GitHub Stats with fallback -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🚀 Featured Projects
-
-[![Project 1](https://img.shields.io/badge/-Project%201-FF6F00?style=flat)](https://github.com/yourusername/project1)
-[![Project 2](https://img.shields.io/badge/-Project%202-00C853?style=flat)](https://github.com/yourusername/project2)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sardiniaa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
