@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm sardiniaa 👋
 
-<!--
-**sardiniaa/sardiniaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | Crafting Scalable Systems
 
-Here are some ideas to get you started:
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+---
+
+## 🔥 Recent Activity
+
+<!-- GitHub Stats with fallback -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🚀 Featured Projects
+
+[![Project 1](https://img.shields.io/badge/-Project%201-FF6F00?style=flat)](https://github.com/yourusername/project1)
+[![Project 2](https://img.shields.io/badge/-Project%202-00C853?style=flat)](https://github.com/yourusername/project2)
+
+---
+
+⭐ **Star my repos if you find them useful!**  
